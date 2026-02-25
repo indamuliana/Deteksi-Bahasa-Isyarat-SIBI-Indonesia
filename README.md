@@ -40,7 +40,7 @@ Aplikasi penerjemah Bahasa Isyarat SIBI (Sistem Isyarat Bahasa Indonesia) berbas
 ### 1. Instalasi
 Clone repository ini dan instal dependensi yang diperlukan:
 ```bash
-git clone [https://github.com/username/sibi-translator.git](https://github.com/username/sibi-translator.git)
+git clone https://github.com/indamuliana/Deteksi-Bahasa-Isyarat-SIBI-Indonesia.git
 cd sibi-translator
 pip install -r requirements.txt
 ```
