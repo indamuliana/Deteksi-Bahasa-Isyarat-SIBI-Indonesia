@@ -43,10 +43,12 @@ Clone repository ini dan instal dependensi yang diperlukan:
 git clone [https://github.com/username/sibi-translator.git](https://github.com/username/sibi-translator.git)
 cd sibi-translator
 pip install -r requirements.txt
-
+```
 
 Jalankan Aplikasi WEB
 Gunakan perintah berikut untuk menjalankan antarmuka web:
+```bash
 streamlit run app.py
+```
 
 
